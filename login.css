@@ -1,0 +1,22 @@
+.logo {
+    size: 200px;
+    border-image: inset;
+    box-shadow: none;
+}
+
+    
+    
+    
+    .recuperar { 
+           float: right ;
+    }
+    
+    
+    
+    body {
+        float: left;
+        width: 50%;
+        margin: auto;
+        padding: 0 200px;
+        margin-top: 6px;
+    }
